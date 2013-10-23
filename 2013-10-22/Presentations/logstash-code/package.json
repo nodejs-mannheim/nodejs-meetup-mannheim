@@ -1,0 +1,18 @@
+{
+  "name": "logstash-demo",
+  "version": "0.0.0",
+  "description": "Brief demo on how to use logstash with node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andreas Lappe",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "redis": "~0.9.0",
+    "hiredis": "~0.1.15",
+    "winston-redis": "~0.2.1",
+    "winston": "~0.7.2",
+    "bunyan": "~0.22.0",
+    "stream": "0.0.1"
+  }
+}
