@@ -1,0 +1,31 @@
+{
+  "sources": {
+    "StatsAggregator": {
+      "path": "."
+    },
+    "apt": {
+      "locked_version": "2.3.0"
+    },
+    "graphite": {
+      "locked_version": "0.4.3"
+    },
+    "python": {
+      "locked_version": "1.4.4"
+    },
+    "build-essential": {
+      "locked_version": "1.4.0"
+    },
+    "yum": {
+      "locked_version": "2.3.0"
+    },
+    "apache2": {
+      "locked_version": "1.8.4"
+    },
+    "runit": {
+      "locked_version": "1.1.6"
+    },
+    "memcached": {
+      "locked_version": "1.6.2"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+description     "blog node.js"
+  
+start on virtual-filesystems
+stop on runlevel [06]
+    
+respawn
+respawn limit 5 30
+limit nofile 65550 65550
+
+env HOME=<%= @home %>
+chdir <%= @home %>
+setuid <%= @user_name %>
+setgid <%= @group_name %>
+
+script
+node app.js 2>&1 | logger -t blog
+end script

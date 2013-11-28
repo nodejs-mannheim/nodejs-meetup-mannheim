@@ -1,0 +1,5 @@
+site :opscode
+
+cookbook 'basic-stats', git: 'git@github.com:alappe/cookbook-basic-stats.git'
+cookbook 'statsd', git: 'https://github.com/jellybob/kitchen.git', branch: 'statsd', ref: 'cb72227d414ba980c5ffa23e55af1f0a172ba5c5'
+metadata

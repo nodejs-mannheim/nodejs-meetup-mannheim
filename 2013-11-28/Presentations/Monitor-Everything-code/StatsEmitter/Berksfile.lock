@@ -1,0 +1,44 @@
+{
+  "sources": {
+    "basic-stats": {
+      "locked_version": "0.1.0",
+      "git": "git@github.com:alappe/cookbook-basic-stats.git",
+      "ref": "b61d5023e209b7f8d4780dd92225d9954e24c015"
+    },
+    "statsd": {
+      "locked_version": "0.0.2",
+      "git": "https://github.com/jellybob/kitchen.git",
+      "ref": "cb72227d414ba980c5ffa23e55af1f0a172ba5c5"
+    },
+    "StatsEmitter": {
+      "path": "."
+    },
+    "build-essential": {
+      "locked_version": "1.4.0"
+    },
+    "git": {
+      "locked_version": "2.5.0"
+    },
+    "dmg": {
+      "locked_version": "1.1.0"
+    },
+    "yum": {
+      "locked_version": "2.3.0"
+    },
+    "windows": {
+      "locked_version": "1.8.10"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "runit": {
+      "locked_version": "1.1.6"
+    },
+    "nodejs": {
+      "locked_version": "1.3.0"
+    },
+    "apt": {
+      "locked_version": "2.3.0"
+    }
+  }
+}
