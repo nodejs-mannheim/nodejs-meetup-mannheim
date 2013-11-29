@@ -25,7 +25,7 @@ The presentation by
 into the old PHP-based API and the new one based on node.js,
 including underlying principles.
 
-FIXME PDF/Keynote
+[PDF](Presentations/Stocard-Building-HTTP-APIs.pdf)
 
 ### Spontaneous glance on real-time trading systems
 
