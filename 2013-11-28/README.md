@@ -1,4 +1,4 @@
-# node.js MeetUp Mannheim October
+# node.js MeetUp Mannheim November
 
 Thirteen people attended this meetup at stocard in Ludwigshafen.
 
