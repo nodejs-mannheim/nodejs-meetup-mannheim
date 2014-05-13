@@ -1,6 +1,6 @@
 # node.js MeetUp Mannheim
 
-![node.js MeetUp Mannheim Logo](http://photos3.meetupstatic.com/photos/event/9/2/e/c/highres_151237612.jpeg)
+![node.js MeetUp Mannheim Logo](_assets/logo.png)
 
 Hello!
 
