@@ -13,6 +13,32 @@ to [docker](https://www.docker.io).
 * Big thanks to [interfrog](http://www.interfrog.de) providing us with this
 	nice location!
 
+Just like [JavaScript Jabber](http://javascriptjabber.com), we collect
+some picks—things people found funny, nice, interesting, whatever…
+ 
+### Information
+* http://callbackhell.com
+* http://blog.42floors.com/coded-angular-tutorial-app-backbone-took-260-code/
+* http://javascriptweekly.com
+
+### Components
+* http://redis.io
+* http://couchdb.apache.org
+* http://www.rabbitmq.com
+* https://togetherjs.com
+* http://twitter.github.io/flight/
+
+### Productivity
+* http://neovim.org
+* http://tmux.sourceforge.net
+* http://www.spritzinc.com
+ 
+### For Laughs
+* http://flappy2048.com
+* http://sap.github.io/openui5/
+* http://whatthecommit.com
+* http://opensslrampage.org
+
 ## Contact
 
 Follow [@nodejs\_Mannheim](https://twitter.com/nodejs_Mannheim)
